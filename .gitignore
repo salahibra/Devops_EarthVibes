@@ -1,2 +1,5 @@
-node_modules
-.angular
+
+# ignore node modules
+node_modules/
+# ignore .angular directory
+.angular/
