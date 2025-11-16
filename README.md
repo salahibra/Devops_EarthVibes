@@ -22,3 +22,20 @@ firebase login
 ```
 npm i @angular/fire --legacy-peer-deps
 ```
+## init firebase
+```
+firebase init
+```
+**Select fonctionnalies** : Hosting, Firestore, ...
+**choose an existed firebase project**
+**choose region**
+**choose non for automatic deployement on GitHub**
+
+## Build project
+```
+ng build
+```
+## deploy with firebase
+```
+firebase deploy
+```
