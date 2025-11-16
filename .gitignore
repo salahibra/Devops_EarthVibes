@@ -3,3 +3,16 @@
 node_modules/
 # ignore .angular directory
 .angular/
+
+# ignore .firebase directory
+.firebase/
+# ignore build output
+dist/
+# ignore .firebaserc file
+.firebaserc
+# ignore firebase.json file
+firebase.json
+# ignore firebase.rules file
+firebase.rules
+# ignore firebase.indexes.json file
+firebase.indexes.json
